@@ -1,2 +1,3 @@
 - https://vladsimedru.github.io/prep-mate-presentation/
 - https://vladsimedru.github.io/prep-mate-presentation/privacy/
+- https://vladsimedru.github.io/prep-mate-presentation/account-deletion/
